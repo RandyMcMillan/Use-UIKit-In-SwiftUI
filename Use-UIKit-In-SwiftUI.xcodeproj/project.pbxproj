@@ -311,7 +311,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "it.chicio.Use-UIKit-In-SwiftUI";
+				PRODUCT_BUNDLE_IDENTIFIER = dev.bitcoincore.uikit.in.swiftui;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
@@ -334,7 +334,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "it.chicio.Use-UIKit-In-SwiftUI";
+				PRODUCT_BUNDLE_IDENTIFIER = dev.bitcoincore.uikit.in.swiftui;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
